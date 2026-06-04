@@ -23,6 +23,7 @@ trim.py
 main.py
 
 
+The 'plots' file contains screenshots of the simulation running. Two screenshots are given: one where current altitude is 1000m and desired altitude is 1200m, and the other one where current altitude is 1000m and desired altitude is 800m.
 
 **File Descriptions**
 
