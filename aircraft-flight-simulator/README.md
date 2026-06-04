@@ -24,11 +24,11 @@ main.py
 
 
 
-File Descriptions
+**File Descriptions**
 
 
 
-1. aero.py
+1\. aero.py
 
 Computes:
 Lift, Drag, Pitching Moments, Aerodynamic Coefficients
