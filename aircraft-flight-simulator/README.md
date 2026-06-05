@@ -70,7 +70,6 @@ This project was developed to apply principles of:
 
 \- Numerical Methods
 
-\- Scientific Computing
 
 
 The simulator predicts aircraft motion by solving the nonlinear equations of motion at each time step and updating the aircraft state using numerical integration.
