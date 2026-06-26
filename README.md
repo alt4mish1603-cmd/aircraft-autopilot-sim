@@ -124,20 +124,23 @@ x: Horizontal Position
 
 Lift Coefficient
 
+```
 CL = CL₀ + CLα α
-
+```
 
 
 Drag Coefficient
 
+```
 CD = CD₀ + kCL²
-
+```
 
 
 Pitching Moment Coefficient
 
+```
 Cm = Cm₀ + Cmα α + Cmq q̂ + Cmδe δe
-
+```
 
 
 Where:
@@ -154,34 +157,39 @@ Where:
 
 Airspeed
 
+```
 V̇ = (T cos α − D) / m − g sin γ
-
+```
 
 
 Flight Path Angle
 
+```
 γ̇ = (L + T sin α)/(mV) − (g cos γ)/V
-
+```
 
 
 Pitch Rate
 
+```
 q̇ = M/Iyy
-
+```
 
 
 Pitch Angle
 
+```
 θ̇ = q
-
+```
 
 
 Position
 
+```
 ẋ = V cos γ
 
 ḣ = V sin γ
-
+```
 
 
 Trim Analysis:
@@ -190,12 +198,13 @@ Before the simulation begins, the aircraft trim condition is calculated using Sc
 
 The trim condition is found by solving:
 
+```
 V̇ = 0
 
 γ̇ = 0
 
 q̇ = 0
-
+```
 
 
 for:
@@ -214,12 +223,13 @@ Trim Residuals In Simulation:
 
 
 
+```
 V\_dot     = 6.63e-14
 
 gamma\_dot = 2.78e-17
 
 q\_dot     = 5.14e-17
-
+```
 
 
 These values are effectively zero and confirm a valid trim solution.
