@@ -1,6 +1,8 @@
 ***Aircraft Flight Simulation \& Autopilot Control System***
 
-A nonlinear aircraft flight simulator developed in Python as an independent Aerospace Engineering project.
+Built as an independent project in Year 1 to apply flight mechanics theory before formally studying control systems.
+
+A nonlinear aircraft flight simulator developed in Python.
 
 The simulator models longitudinal aircraft dynamics, aerodynamic forces and moments, aircraft trim conditions, and autopilot control systems for pitch, altitude, and airspeed control.
 
