@@ -94,6 +94,8 @@ The final model includes:
 
 **Example Of The Simulation Running:**
 
+<img width="1919" height="1079" alt="Altitude_response_1000-1200 (1)" src="https://github.com/user-attachments/assets/f6a66307-f6e5-40bd-ac75-7dd000a6afca" />
+<img width="1919" height="1079" alt="Altitude_response_1000-800" src="https://github.com/user-attachments/assets/6ee7ab94-8da2-4c5d-9ff6-f7aa88934d71" />
 
 
 
